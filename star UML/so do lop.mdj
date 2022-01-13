@@ -708,7 +708,7 @@
 											"top": 294,
 											"width": 200.35107421875,
 											"height": 13,
-											"text": "+Mã Hóa Đơn",
+											"text": "+Mã đơn hàng",
 											"horizontalAlignment": 0
 										},
 										{
@@ -3807,7 +3807,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF90vjU+LHX2sI="
 							},
-							"name": "Chức vụ"
+							"name": "Chức vụ",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -4047,7 +4048,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF90vrzOrItGQQ="
 							},
-							"name": "mật khẩu"
+							"name": "mật khẩu",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -4121,8 +4123,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF90vwrqrJ+r88="
 							},
-							"name": "Mã Hóa Đơn",
-							"type": ""
+							"name": "Mã đơn hàng"
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4157,7 +4158,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF90vwrqrJ+r88="
 							},
-							"name": "Mã khách hàng"
+							"name": "Mã khách hàng",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4165,7 +4167,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF90vwrqrJ+r88="
 							},
-							"name": "Mã sản phẩm"
+							"name": "Mã sản phẩm",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -4423,7 +4426,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF+UXTTLHj/yuc="
 							},
-							"name": "Mã giỏ hàng"
+							"name": "Mã giỏ hàng",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4431,7 +4435,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF+UXTTLHj/yuc="
 							},
-							"name": "Mã sản phẩm"
+							"name": "Mã sản phẩm",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4439,7 +4444,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF+UXTTLHj/yuc="
 							},
-							"name": "Tên sản phẩm"
+							"name": "Tên sản phẩm",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4447,7 +4453,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF+UXTTLHj/yuc="
 							},
-							"name": "Tổng tiền"
+							"name": "Tổng tiền",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4455,7 +4462,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF+UXTTLHj/yuc="
 							},
-							"name": "Mã khách hàng"
+							"name": "Mã khách hàng",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -4491,7 +4499,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF+UXtq2oXyYF0="
 							},
-							"name": "Họ tên"
+							"name": "Họ tên",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4499,7 +4508,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF+UXtq2oXyYF0="
 							},
-							"name": "Giới tính"
+							"name": "Giới tính",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4507,7 +4517,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF+UXtq2oXyYF0="
 							},
-							"name": "Địa chỉ"
+							"name": "Địa chỉ",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4515,7 +4526,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF+UXtq2oXyYF0="
 							},
-							"name": "Số điện thoại"
+							"name": "Số điện thoại",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4523,7 +4535,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF+UXtq2oXyYF0="
 							},
-							"name": "email"
+							"name": "email",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4531,7 +4544,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF+UXtq2oXyYF0="
 							},
-							"name": "CMND"
+							"name": "CMND",
+							"type": ""
 						}
 					]
 				},
@@ -4549,7 +4563,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF+UZbPebMBSP0="
 							},
-							"name": "Mã đơn hàng"
+							"name": "Mã đơn hàng",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4557,7 +4572,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF+UZbPebMBSP0="
 							},
-							"name": "Mã sản phẩm"
+							"name": "Mã sản phẩm",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4565,7 +4581,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF+UZbPebMBSP0="
 							},
-							"name": "Số lượng"
+							"name": "Số lượng",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4573,7 +4590,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF+UZbPebMBSP0="
 							},
-							"name": "thành tiền"
+							"name": "thành tiền",
+							"type": ""
 						}
 					]
 				}
